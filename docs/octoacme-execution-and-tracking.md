@@ -15,6 +15,8 @@ Guidance for managing day-to-day execution and tracking progress toward project 
   - Include issue link and acceptance criteria in PR description
   - Run automated tests and linting in CI before requesting review
   - Require at least one approval before merging (or team-defined policy)
+- For releases, use the [Release Checklist](release-checklist.md) to ensure all pre-release, release, and post-release steps are completed
+- Track and review risks weekly using the [Risk Register Template](risk-register-template.md)
 
 ## Quality & Testing
 - Unit tests for new logic
@@ -37,4 +39,6 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] Branching and PR conventions documented in repo
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
-- [ ] Risk register updated weekly
+- [ ] Risk register updated weekly (see [Risk Register Template](risk-register-template.md))
+- [ ] Release checklist ready for deployment (see [Release Checklist](release-checklist.md))
+- [ ] Project one-pager on file (see [Project One-pager Template](project-one-pager-template.md))
