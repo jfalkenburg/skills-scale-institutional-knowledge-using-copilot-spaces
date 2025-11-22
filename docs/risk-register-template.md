@@ -31,7 +31,7 @@ Use this template to track and manage project risks. Review weekly during PM syn
 
 | ID | Description | Impact | Likelihood | Owner | Mitigation Strategy | Status | Review Date |
 |----|-------------|--------|------------|-------|---------------------|--------|-------------|
-| R001 | Example: Key API dependency may be deprecated | High | Possible | Tech Lead | Evaluate alternative APIs; create fallback plan | Open | 2024-01-15 |
+| R001 | Example: Key API dependency may be deprecated | High | Possible | Tech Lead | Evaluate alternative APIs; create fallback plan | Open | YYYY-MM-DD |
 | R002 | | | | | | | |
 | R003 | | | | | | | |
 | R004 | | | | | | | |

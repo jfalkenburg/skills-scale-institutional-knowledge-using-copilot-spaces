@@ -101,10 +101,10 @@ Release Managers coordinate the end-to-end release process, ensuring all release
 - Incident coordination if rollback needed
 
 ### Interactions with Other Roles
-- Partners with [Project Managers](#project-managers) and [QA/Testing](#quality-assurance) to verify release criteria
+- Partners with [Project Managers](#project-managers) and QA/Testing teams to verify release criteria
 - Coordinates with [Developers](#developers) on deployment procedures and rollback plans
 - Works with [SRE/On-call](#sreor-call-engineer) to monitor production health
-- Briefs [Support Engineers](#support-engineer) on new features and known issues
+- Briefs [Support Engineers](#support-engineercustomer-success-liaison) on new features and known issues
 
 ---
 
@@ -236,7 +236,7 @@ Data Analysts and Analytics Engineers design and maintain data pipelines, report
 - Works with [Product Managers](#product-managers) to define and track success metrics
 - Partners with [Developers](#developers) to instrument tracking and ensure data accuracy
 - Supports [Project Managers](#project-managers) with velocity and delivery metrics
-- Provides insights to [UX Designers](#ux-researcherproduct-designer) on user behavior patterns
+- Provides insights to [UX Researchers/Product Designers](#ux-researcherproduct-designer) on user behavior patterns
 
 ---
 
@@ -299,10 +299,10 @@ Support Engineers and Customer Success Liaisons act as the bridge between custom
 - Customer-facing updates and workarounds
 
 ### Interactions with Other Roles
-- Escalates issues to [Developers](#developers) and [QA](#quality-assurance)
+- Escalates issues to [Developers](#developers) and QA teams
 - Provides customer feedback to [Product Managers](#product-managers)
 - Coordinates with [Release Managers](#release-manager) on release communications
-- Works with [UX Designers](#ux-researcherproduct-designer) to identify usability issues
+- Works with [UX Researchers/Product Designers](#ux-researcherproduct-designer) to identify usability issues
 
 ---
 
